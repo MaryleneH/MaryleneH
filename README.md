@@ -4,6 +4,9 @@
 A lot of things to learn 😄 
 
 - 🔭 I’m currently working on `DataViz` and `Datascience`
+- 🌱 I’m currently learning
+  - The `scikit-learn` library
+  - AI agent
 <!--
 **MaryleneH/MaryleneH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
