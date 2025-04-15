@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-![bitmoji](https://sdk.bitmoji.com/render/panel/ded21d24-cb38-4e67-862b-4fcb8201f661-a244cf7c-f70f-4cf8-b6ae-be93133fa068-v1.png?transparent=1&palette=1&width=246)   
-A lot of things to learn 😄 
 
+|                  |                 |
+| :--------------- |:---------------:|
+| ![bitmoji](https://sdk.bitmoji.com/render/panel/ded21d24-cb38-4e67-862b-4fcb8201f661-a244cf7c-f70f-4cf8-b6ae-be93133fa068-v1.png?transparent=1&palette=1&width=246) |  A lot of things to learn 😄     |
+|                  |                 |
+
+<br></br>
+
+    
 - 🔭 I’m currently working on `DataViz` and `Datascience`
 - 🌱 I’m currently learning
   - The `scikit-learn` library
