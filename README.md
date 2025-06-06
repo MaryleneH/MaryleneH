@@ -3,7 +3,7 @@
 
 |                  |                 |
 | :--------------- |:---------------:|
-| <img src="https://github.com/user-attachments/assets/14d14684-cfdf-4cd1-9582-0638d479b5f8" width="200"/> | A lot of things to learn 😄 .......... Work In Progress |
+| <img src="https://github.com/user-attachments/assets/0f6f3fb5-610d-43c5-be6b-0c46b97cacbc" width="200"/> | A lot of things to learn 😄 .......... Work In Progress |
 
 
 
