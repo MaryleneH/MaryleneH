@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on `DataViz` and `Datascience`
 - 🌱 I’m currently learning
   - The `scikit-learn` library
-  - AI agent
+  - AI agent ... Thank you so much [HuggingFace](https://huggingface.co/) for your amazing and helpful courses
 <!--
 **MaryleneH/MaryleneH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
